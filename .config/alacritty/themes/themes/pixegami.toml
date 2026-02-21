@@ -1,0 +1,36 @@
+
+# Default colors
+[colors.primary]
+background = '#0c1c25'
+foreground = '#86ffaf'
+
+# Normal colors
+[colors.normal]
+black   = '#152535'
+red     = '#ff3c3c'
+green   = '#49ff6d'
+yellow  = '#ffbc51'
+blue    = '#3db6f9'
+magenta = '#8e44ad'
+cyan    = '#16a085'
+white   = '#bdc3c7'
+
+# Bright colors
+[colors.bright]
+black   = '#26384b'
+red     = '#ff3c4c'
+green   = '#93ff91'
+yellow  = '#ffd057'
+blue    = '#5bd7ff'
+magenta = '#9b59b6'
+cyan    = '#205c57'
+white   = '#ffffff'
+
+# Font
+[font]
+normal = { family = "MesloLGS Nerd Font Mono" }
+bold = { family = "MesloLGS Nerd Font Mono" }
+italic = { family = "MesloLGS Nerd Font Mono" }
+bold_italic = { family = "MesloLGS Nerd Font Mono" }
+
+size = 14.0

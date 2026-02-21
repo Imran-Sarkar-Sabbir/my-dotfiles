@@ -1,0 +1,30 @@
+[env]
+TERM = "xterm-256color"
+
+
+[window]
+title = "My Terminal"
+padding.x = 0
+padding.y = 0
+opacity = 0.98
+blur = true
+option_as_alt = "Both"
+decorations = "None"
+startup_mode= "Fullscreen"
+
+[font]
+#normal.family = "JetBrains Mono"
+normal.family = "Anonymous Pro"
+normal.style = "Regular"
+bold.family = "JetBrains Mono"
+bold.style = "Bold"
+italic.family = "Anonymous Pro"
+italic.style = "Italic"
+bold_italic.family = "JetBrains Mono"
+bold_italic.style = "Bold Italic"
+size = 14
+
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/pixegami.toml"
+]
