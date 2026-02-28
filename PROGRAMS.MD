@@ -138,6 +138,7 @@ Programming fonts used by the terminal and editor.
 brew install --cask font-anonymous-pro
 brew install --cask font-jetbrains-mono
 brew install font-hack-nerd-font
+brew install --cask font-meslo-lg-nerd-font
 ```
 
 **Usage:** Configured automatically in `alacritty.toml`. Anonymous Pro is the default regular font, JetBrains Mono is used for bold.
