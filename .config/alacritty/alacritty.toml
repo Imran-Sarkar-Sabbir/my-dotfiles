@@ -10,7 +10,8 @@ opacity = 0.98
 blur = true
 option_as_alt = "Both"
 decorations = "None"
-startup_mode= "Fullscreen"
+# startup_mode= "Fullscreen"
+startup_mode= "Maximized"
 
 [font]
 #normal.family = "JetBrains Mono"
