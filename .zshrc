@@ -118,6 +118,10 @@ alias bat="bat --color=always --style=numbers"
 alias fd="fdfind"
 alias fzf="fzf --preview 'bat --color=always --style=numbers --line-range=:500 {}'"
 alias ta="tmux a"
+alias temporal_ssh="ssh -L 127.0.0.1:8080:127.0.0.1:8080 stories"
+alias temporal_keyword_gen="temporal operator search-attribute create --name profileId --type KeywordList && temporal operator search-attribute create --name providerId --type KeywordList"
+alias dangerous_claude="claude --dangerously-skip-permissions"
+alias ngrok="ngrok --region=ap"
 
 
 fzfnvim() {

@@ -31,6 +31,7 @@ return {
     keys = {
       { "<leader>a", "", desc = "+ai", mode = { "n", "v" } },
       { "<leader>ac", "<cmd>ClaudeCode<cr>", desc = "Toggle Claude" },
+      { "<leader>apc", "<cmd>ClaudeCode --dangerously-skip-permissions<cr>", desc = "Toggle Claude" },
       { "<leader>af", "<cmd>ClaudeCodeFocus<cr>", desc = "Focus Claude" },
       { "<leader>ar", "<cmd>ClaudeCode --resume<cr>", desc = "Resume Claude" },
       { "<leader>aC", "<cmd>ClaudeCode --continue<cr>", desc = "Continue Claude" },
@@ -75,4 +76,5 @@ return {
   { "navarasu/onedark.nvim", lazy = true },
   { "rebelot/kanagawa.nvim", lazy = true },
   { "Mofiqul/dracula.nvim", lazy = true },
+  { "ayu-theme/ayu-vim" },
 }

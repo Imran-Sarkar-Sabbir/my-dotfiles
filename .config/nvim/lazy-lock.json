@@ -1,6 +1,7 @@
 {
   "LazyVim": { "branch": "main", "commit": "a3e52dd346ea35db5521b66e46dca95d32f00cb4" },
   "SchemaStore.nvim": { "branch": "main", "commit": "84d86aa49021aa8b48c0a6ff89cd92c39ddf7d5c" },
+  "ayu-vim": { "branch": "master", "commit": "01faacb4cb76e8cf72ad9858c581d80876260ab3" },
   "bufferline.nvim": { "branch": "main", "commit": "655133c3b4c3e5e05ec549b9f8cc2894ac6f51b3" },
   "catppuccin": { "branch": "main", "commit": "0a5de4da015a175f416d6ef1eda84661623e0500" },
   "clangd_extensions.nvim": { "branch": "main", "commit": "e84eaea7ca79610d7047fb1c9d74f15bb1c9db34" },
